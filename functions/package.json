@@ -1,0 +1,12 @@
+{
+  "name": "functions",
+  "description": "Cloud Functions for CareVax",
+  "engines": {
+    "node": "18"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "firebase-admin": "^11.5.0",
+    "firebase-functions": "^4.3.0"
+  }
+}

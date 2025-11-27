@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504102065385",
+    "project_id": "carevax-e400d",
+    "storage_bucket": "carevax-e400d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504102065385:android:ffa477845a1dae71c68c78",
+        "android_client_info": {
+          "package_name": "carevax.digital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFB_eIs4javDlTSKUPltj_medzIL7vivU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

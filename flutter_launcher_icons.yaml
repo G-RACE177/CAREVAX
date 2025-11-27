@@ -1,0 +1,16 @@
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/carevax_logo.png"
+  adaptive_icon_background: "#2196F3"
+  adaptive_icon_foreground: "assets/images/carevax_logo.png"
+  remove_alpha_ios: true
+  web:
+    generate: true
+    image_path: "assets/images/carevax_logo.png"
+    background_color: "#2196F3"
+    theme_color: "#2196F3"
+  windows:
+    generate: true
+    image_path: "assets/images/carevax_logo.png"
+    icon_size: 48

@@ -1,0 +1,48 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # UI Icons
+  cupertino_icons: ^1.0.8
+  font_awesome_flutter: ^10.10.0
+
+  # Local Storage & Database
+  shared_preferences: ^2.0.15
+  sqflite: ^2.2.8+4
+  path: ^1.8.3
+
+  # GPS/Location Services
+  flutter_map: ^8.2.2
+  latlong2: ^0.9.0
+  geolocator: ^14.0.2
+
+  # geolocator is already present from before
+
+
+  # HTTP & API Integration
+  http: ^1.1.0
+
+  # Image Processing
+  image: ^4.5.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/log.jpg

@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# flutter_application_1
+# CareVax Application
 
 A new Flutter project.
 
